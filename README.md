@@ -1,5 +1,5 @@
 
-# Welcome to My Data Analytics Playground Repository!
+# Welcome to My Data Analytics Playground Repository! 📊
 If you're interested in exploring the fascinating world of data analytics, you've come to the right place. My repository features an extensive collection of data analytics projects that I've analyzed, showcasing my versatility and expertise in this exciting field.
 
 ## About Me
