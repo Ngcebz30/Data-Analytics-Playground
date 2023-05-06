@@ -1,6 +1,6 @@
 
 
-# Smart Watch Data Analysis
+# Smart Watch Data Analysis ⌚
 
 This repository contains a data analysis on a dataset of smart watches and a full report created and written by myself from start to finish. The analysis was conducted using Python and various data analysis libraries such as Pandas, Matplotlib, and Seaborn.
 
